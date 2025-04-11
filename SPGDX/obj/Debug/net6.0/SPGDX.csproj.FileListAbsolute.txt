@@ -1,0 +1,15 @@
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\bin\Debug\net6.0\SPGDX.exe
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\bin\Debug\net6.0\SPGDX.deps.json
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\bin\Debug\net6.0\SPGDX.runtimeconfig.json
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\bin\Debug\net6.0\SPGDX.dll
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\bin\Debug\net6.0\SPGDX.pdb
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.csproj.AssemblyReference.cache
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.AssemblyInfoInputs.cache
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.AssemblyInfo.cs
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.csproj.CoreCompileInputs.cache
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.dll
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\refint\SPGDX.dll
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.pdb
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\SPGDX.genruntimeconfig.cache
+C:\Users\myste\studia\semestr II\projekt c#\SPGDX\SPGDX\obj\Debug\net6.0\ref\SPGDX.dll
